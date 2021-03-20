@@ -1,0 +1,9 @@
+C:\Users\safak\Desktop\genrep\GenericRepositoryPattern-master\MusicMarket.Core\bin\Debug\netcoreapp3.1\BookMarket.Core.deps.json
+C:\Users\safak\Desktop\genrep\GenericRepositoryPattern-master\MusicMarket.Core\bin\Debug\netcoreapp3.1\BookMarket.Core.dll
+C:\Users\safak\Desktop\genrep\GenericRepositoryPattern-master\MusicMarket.Core\bin\Debug\netcoreapp3.1\BookMarket.Core.pdb
+C:\Users\safak\Desktop\genrep\GenericRepositoryPattern-master\MusicMarket.Core\obj\Debug\netcoreapp3.1\BookMarket.Core.csprojAssemblyReference.cache
+C:\Users\safak\Desktop\genrep\GenericRepositoryPattern-master\MusicMarket.Core\obj\Debug\netcoreapp3.1\BookMarket.Core.AssemblyInfoInputs.cache
+C:\Users\safak\Desktop\genrep\GenericRepositoryPattern-master\MusicMarket.Core\obj\Debug\netcoreapp3.1\BookMarket.Core.AssemblyInfo.cs
+C:\Users\safak\Desktop\genrep\GenericRepositoryPattern-master\MusicMarket.Core\obj\Debug\netcoreapp3.1\BookMarket.Core.csproj.CoreCompileInputs.cache
+C:\Users\safak\Desktop\genrep\GenericRepositoryPattern-master\MusicMarket.Core\obj\Debug\netcoreapp3.1\BookMarket.Core.dll
+C:\Users\safak\Desktop\genrep\GenericRepositoryPattern-master\MusicMarket.Core\obj\Debug\netcoreapp3.1\BookMarket.Core.pdb

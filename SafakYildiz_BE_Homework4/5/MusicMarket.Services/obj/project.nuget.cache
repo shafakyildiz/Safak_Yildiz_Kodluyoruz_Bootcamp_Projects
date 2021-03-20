@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z2vBaYoKXgOSr/efUZT+nswprFk4lCdwIKdOfGVUZz+WiW0fDXWnDlzc49jw6mM1+GAEs+RgC2BuBdBB4L11AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\safak\\Desktop\\genrep\\GenericRepositoryPattern-master\\MusicMarket.Services\\BookMarket.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\safak\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

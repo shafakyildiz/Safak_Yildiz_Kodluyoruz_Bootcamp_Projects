@@ -1,0 +1,1 @@
+https://safakyildiz.medium.com/some-must-know-c-fundamentals-be9caccad7af
